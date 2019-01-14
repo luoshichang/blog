@@ -8,4 +8,8 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+个人信息：2017届毕业生 / 广东工业大学 / 网络工程专业<br />
+职业状态：前端工程师 / 在职<br />
+兴趣爱好：草缸爱好者 / 狼人杀玩家 / 刺激战场移动3级包 / 独旅爱好者<br />
+联系方式：18813754605 / 18511133563 / 1245luo@gmail.com
+
