@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我是怎么玩桌游狼人杀的
+title: 手游刺激战场内心独白
 description: Feugiat amet tempus
 image: assets/images/pic06.jpg
 category: life
