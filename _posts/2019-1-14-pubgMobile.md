@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 手游刺激战场内心独白
-description: Feugiat amet tempus
-image: assets/images/pic06.jpg
+title: 手游刺激战场玩法
+description: 手游刺激战场玩法心得
+image: assets/images/pubg.png
 category: life
 ---
 
